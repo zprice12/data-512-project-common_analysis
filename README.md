@@ -1,6 +1,6 @@
 # Data 512 - Project - Common Analysis
 ## Project Goal
-The goal of this project is to investigate forest fires near Kingman, Arizona by developing a smoke impact metric, predicting this metric through 2049, and creating informative visualizations.
+The goal of this project is to investigate forest fires within 1250 miles of Kingman, Arizona from 1963-2020 by developing a smoke impact metric, predicting this metric through 2049, and creating informative visualizations.
 ## Licenses and Links
 USGS Wildfire Data -  
 https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81  
