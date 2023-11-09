@@ -3,21 +3,21 @@
 The goal of this project is to investigate forest fires near Kingman, Arizona by developing a smoke impact metric, predicting this metric through 2049, and creating informative visualizations.
 ## Licenses and Links
 USGS Wildfire Data -  
-https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81
+https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81  
 EPA AQI Information -  
 https://www.airnow.gov/sites/default/files/2020-05/aqi-technical-assistance-document-sept2018.pdf  
 Pyproj Documentation -  
 https://pyproj4.github.io/pyproj/stable/index.html  
 Geojson Documentation -  
-https://pypi.org/project/geojson/ 
+https://pypi.org/project/geojson/  
 Code License -  
 https://creativecommons.org/licenses/by/4.0/  
 EPSG:4326 Information -  
-https://epsg.io/4326 
+https://epsg.io/4326  
 US EPA AQI Documentation -  
 https://aqs.epa.gov/aqsweb/documents/data_api.html  
 US EPA FAQ -  
-https://www.epa.gov/outdoor-air-quality-data/frequent-questions-about-airdata
+https://www.epa.gov/outdoor-air-quality-data/frequent-questions-about-airdata  
 FIPS Information -  
 https://www.census.gov/library/reference/code-lists/ansi.html
 ## Data Files
